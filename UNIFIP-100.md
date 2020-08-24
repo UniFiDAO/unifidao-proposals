@@ -2,6 +2,8 @@
 UNIFIP: 100
 Title: UNIFIP Purpose and Guidelines
 Status: Active
+type: <Membership>
+amount: 0 ATOMs (free)
 Author: Taariq Lewis <taariq@promiseprotocols.com>, James Waugh   <jwaugh19@gmail.com>, and others
 Created: 2020-08-23
 Updated: 2020-08-23  
