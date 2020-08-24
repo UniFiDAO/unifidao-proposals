@@ -34,7 +34,7 @@ The technical specification should describe the syntax and semantics of any new 
 
 ## Rationale
 <!--The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
-The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
+The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
 
 ## Implementation
 <!--The implementations must be completed before any UNIFIP is given status "Final", but it need not be completed before the UNIFIP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.-->
@@ -54,8 +54,8 @@ What are the details of the offering you are proposing? Baed on your offering ty
 
 ## Multisig Wallet Steering Committee
 <!--Who is your multisignature wallet committee? -->
-MemberName | Organization
-MemberName | Organization
+| MemberName | Organization |
+| MemberName | Organization |
 
 ## Other Funding Sources
 <!-- Are there any other funding sources that will participate in the launch? -->
