@@ -67,5 +67,9 @@ What are the details of the offering you are proposing? Baed on your offering ty
 <!-- Are there any other funding sources that will participate in the launch? -->
 Are there any other funding sources that will participate in the launch?. What are those funding sources?
 
+## External Links
+<!--Any external links to code or other presentations? -->
+Any external links to code or other presentations to support your proposal?
+
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
