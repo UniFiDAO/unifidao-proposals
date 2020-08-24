@@ -10,7 +10,7 @@ created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 ---
 
 <!--You can leave these HTML comments in your merged UNIFIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new UNIFIPs. Note that an UNIFIP number will be assigned by an editor. When opening a pull request to submit your UNIFIP, please use an abbreviated title in the filename, `UNIFIP-draft_title_abbrev.md`. The title should be 44 characters or less.-->
-This is the suggested template for new UNIFIPs.
+This is the suggested template for new UNIFIPs. It was inspired by Ethereum's EIP and Bitcoin's BIPs. 
 
 Note that an UNIFIP number will be assigned by an editor. When opening a pull request to submit your UNIFIP, please use an abbreviated title in the filename, `UNIFIP-draft_title_abbrev.md`.
 
