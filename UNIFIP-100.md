@@ -1,6 +1,3 @@
-
-### UNIFIP-100: UNIFI Proposal Purpose and Guidelines**
-
 ---
 UNIFIP: 100
 Title: UNIFIP Purpose and Guidelines
@@ -10,7 +7,6 @@ Created: 2020-08-23
 Updated: 2020-08-23  
 ---
  
-
 ### What is a UNIFIP?
 A UNIFIP is a UniFi DAO Proposal. It is a proposal document providing information to the Cosmos universe and UniFi membership describing a new funding proposal and go-to-market action plan for new features in the Cosmos DeFi ecosystem. The UNIFIP author is responsible for building consensus within the community and documenting dissenting opinions.
 
