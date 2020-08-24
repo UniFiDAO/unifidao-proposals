@@ -45,7 +45,7 @@ The implementations must be completed before any UNIFIP is given status "Final",
 All UNIFIPs must contain a section that discusses the security implications/considerations relevant to the proposed change. Include information that might be important for security discussions, surfaces risks and can be used throughout the life cycle of the proposal. E.g. include security-relevant design decisions, concerns, important discussions, implementation-specific guidance and pitfalls, an outline of threats and risks and how they are being addressed. UNIFIP submissions missing the "Security Considerations" section will be rejected. An UNIFIP cannot proceed to status "Final" without a Security Considerations discussion deemed sufficient by the reviewers.
 
 ## Milestones
-<!-- What is the launch schedule for this feature?-->
+<!-- What is the launch schedule for this feature and the milestones on the roadmap?-->
 What is the launch and release schedule for this feature
 
 ## Deliverable
@@ -58,6 +58,8 @@ What are the details of the offering you are proposing? Baed on your offering ty
 
 ## Multisig Wallet Steering Committee
 <!--Who is your multisignature wallet committee? -->
+| MemberName | Organization |
+| --- | ---| 
 | MemberName | Organization |
 | MemberName | Organization |
 
