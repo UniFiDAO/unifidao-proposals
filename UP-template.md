@@ -6,7 +6,7 @@ discussions-to: <URL>
 status: Draft
 type: <Grant | Investment | Membership>
 amount: <in ATOMs>
-wallet: <multisgnature funding wallet>
+multisig wallet: <multisgnature funding wallet>
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 ---
 
