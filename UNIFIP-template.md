@@ -26,8 +26,8 @@ If you can't explain it simply, you don't understand it well enough." Provide a 
 A short (~200 word) description of your project and the features to be launched.
 
 ## Value Proposition
-<!-- What are the key value propositions and motiviation for the feeatures proposed.-->
-The value proposition and the motivation is critical for UPs that want to launch new features and prodcuts in the Cosmos. It should clearly explain why the existing protocol specification is inadequate to address the problem that the UP solves. UP submissions without sufficient motivation may be rejected outright.
+<!-- What are the key value propositions and motivation for the features proposed.-->
+The value proposition and the motivation is critical for UPs that want to launch new features and products in the Cosmos. It should clearly explain why the existing protocol specification is inadequate to address the problem that the UP solves. UP submissions without sufficient motivation may be rejected outright.
 
 ## Features
 <!--The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Cosmos Clients.-->
@@ -54,7 +54,7 @@ What is the launch and release schedule for this feature
 What are the deliverables that will be launched when the feature is complete?
 
 ## Offering Type
-<!--What is your proposed fundingn structure-->
+<!--What is your proposed funding structure-->
 What are the details of the offering you are proposing? Baed on your offering type, please provide the details that memberships acquire for their support
 
 ## Multisig Wallet Steering Committee
