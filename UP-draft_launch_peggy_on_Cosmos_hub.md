@@ -76,11 +76,11 @@ The Milestones for accelerated Peggy launch are as follows:
 <!-- What is the expected deliverable that will be launched?-->
 There will be two Peggy versions that will be delivered:
 
-* Peggy v1: Single ERC20 support and Multiple runtime ERC20 support in November. Peggy will be ready to deploy but requires chain halt. In this context Multiple ERC20 means you can send DAI and USDT to the contract and both would end up on Cosmos. 
+* **Peggy v1:** Single ERC20 support and Multiple runtime ERC20 support in November. Peggy will be ready to deploy but requires chain halt. In this context Multiple ERC20 means you can send DAI and USDT to the contract and both would end up on Cosmos. 
 
-* Peggy v2: Peggy v2 includes support for sending Cosmos assets, such as Atom over to Ethereum. This requires significant new engineering work around the solidity contracts.
+* **Peggy v2:** Peggy v2 includes support for sending Cosmos assets, such as Atom over to Ethereum. This requires significant new engineering work around the solidity contracts.
 
-* Documentation & tooling: Althea will provide developer documentation and automation for deploying and interacting with the Peggy bridge. It is our goal that this documentation be brief as Peggy’s deployment process should be mostly automated and easy for even a small zone to use. Likewise developer tooling for Peggy will be provided in Rust and Javascript. Obviously GO tooling will be provided by CosmosSDK code.
+* **Documentation & tooling:** Althea will provide developer documentation and automation for deploying and interacting with the Peggy bridge. It is our goal that this documentation be brief as Peggy’s deployment process should be mostly automated and easy for even a small zone to use. Likewise developer tooling for Peggy will be provided in Rust and Javascript. Obviously GO tooling will be provided by CosmosSDK code.
 
 
 ## Offering Type
@@ -100,6 +100,8 @@ Maximum: 12 Memberships available.
 | Dean Tribble | Agoric | 
 | Tor Bair | Secret Network | 
 | Taariq Lewis | Promise | 
+
+Funds will be delivered via the multisig on successful milestone announcements.
 
 ## Other Funding Sources
 <!-- Are there any other funding sources that will participate in the launch? -->
