@@ -29,10 +29,6 @@ A short (~200 word) description of your project and the features to be launched.
 <!-- What are the key value propositions and motivation for the features proposed.-->
 The value proposition and the motivation is critical for UPs that want to launch new features and products in the Cosmos. It should clearly explain why the existing protocol specification is inadequate to address the problem that the UP solves. UP submissions without sufficient motivation may be rejected outright.
 
-## Rationale
-<!--The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
-The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
-
 ## Implementation
 <!--The implementations must be completed before any UP is given status "Final", but it need not be completed before the UP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.-->
 The implementations must be completed before any UP is given status "Final", but it need not be completed before the UP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.
