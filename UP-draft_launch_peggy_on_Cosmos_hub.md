@@ -14,11 +14,11 @@ created: 2020-08-23
 
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the UP.-->
-Launch Althea Peggy as a module on the CosmosHub by December 31, 2020.
+Launch Althea Peggy with an ERCO20 bi-directional token bridge on the CosmosHub by December 31, 2020.
 
 ## Abstract
 <!--A short (~200 word) description of the project and the objective feature to be released.-->
-Peggy has been long overdue as a production Cosmos feature. An Ethereum Peggy bridge has not launched and prevents the CosmosHub from participating in the current DeFi wave. Currently Peggy is being developed by one full time developer and one part time developer. The current team consists of Justin Kilpatrick on relayer and Cosmos-SDK tasks and Jehan Tremback on Solidity tasks. The goal of this proposal is to acquire funding for full time solidity development and a full time Cosmos-SDK expert to ship a functioning Peggy for the CosmosHub by December 31, 2021. All personnel are ready to start immediately.
+Peggy has been long overdue as a production CosmosHub feature. Peggy is a key step in delivering the promise of the Inter Blockchain Protocol. An Ethereum Peggy bridge has not yet launched. This shortfall prevents the CosmosHub ATOM holders from participating in the current DeFi wave. Currently Peggy is being developed by one full time developer and one part time developer. The current team consists of Justin Kilpatrick on relayer and Cosmos-SDK tasks and Jehan Tremback on Solidity tasks. The goal of this proposal is to acquire funding for full time solidity development and a full time Cosmos-SDK expert to ship a functioning Peggy for the CosmosHub by December 31, 2021. All personnel are ready to start immediately.
 
 ## Value Proposition
 <!-- What are the key value propositions and motivation for the features proposed.-->
