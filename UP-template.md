@@ -29,10 +29,6 @@ A short (~200 word) description of your project and the features to be launched.
 <!-- What are the key value propositions and motivation for the features proposed.-->
 The value proposition and the motivation is critical for UPs that want to launch new features and products in the Cosmos. It should clearly explain why the existing protocol specification is inadequate to address the problem that the UP solves. UP submissions without sufficient motivation may be rejected outright.
 
-## Features
-<!--The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Cosmos Clients.-->
-The technical specification should describe the key requirements for the new features. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Cosmos clients.
-
 ## Rationale
 <!--The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
 The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
